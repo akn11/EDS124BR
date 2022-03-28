@@ -1,2 +1,2 @@
 # EDS124BR
-Draw a house video: https://youtu.be/t7AlzqVaMPk
+Draw a house (Sequences): https://youtu.be/t7AlzqVaMPk
