@@ -9,4 +9,5 @@ Week 5: Conditional loops with soccer ball: https://www.youtube.com/watch?v=h2ce
 Week 6: If/Else: https://www.youtube.com/watch?v=GFPgBwrWGX4&ab_channel=AshwinNambissan <br>
 Week 7: Nested if/else: https://www.youtube.com/watch?v=06UfpzQ3HQE&ab_channel=AshwinNambissan <br>
 Week 8: Compound Conditionals: https://www.youtube.com/watch?v=7TmhmuXGjl4 <br>
-Week 9: Blocks: https://www.youtube.com/watch?v=LdCeWS00Xoo&ab_channel=AshwinNambissan
+Week 9: Blocks: https://www.youtube.com/watch?v=LdCeWS00Xoo&ab_channel=AshwinNambissan <br>
+Week 10: Lists: https://www.youtube.com/watch?v=BRUUvZxc1kY
